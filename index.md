@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Velkommen til Borgen Gutta!
 
 You can use the [editor on GitHub](https://github.com/BorgenGutta/BorgenGutta.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
