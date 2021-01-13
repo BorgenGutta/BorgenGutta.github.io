@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Borgen Gutta</title>
-    <link>https://borgengutta.github.io/</link>
-    <description>Recent content on Borgen Gutta</description>
+    <title>Posts on Borgen Gutta</title>
+    <link>https://borgengutta.github.io/post/</link>
+    <description>Recent content in Posts on Borgen Gutta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>borgengutta@live.com (Jan Vidar Elven)</managingEditor>
     <webMaster>borgengutta@live.com (Jan Vidar Elven)</webMaster>
-    <lastBuildDate>Wed, 13 Jan 2021 21:30:24 +0100</lastBuildDate><atom:link href="https://borgengutta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 21:30:24 +0100</lastBuildDate><atom:link href="https://borgengutta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fitness Straffekonk</title>
       <link>https://borgengutta.github.io/post/fitness-straffekonk-13-01-2021/</link>
@@ -17,15 +17,6 @@
       <guid>https://borgengutta.github.io/post/fitness-straffekonk-13-01-2021/</guid>
       <description>Teams Linken for å bli med på virtuell Fitness straffekonk er: Microsoft Teams Link ⚽
 Husk  Logg på fra kl 19:50, konkurransen starter kl 20:00 🕗 Husk å slå på kamera på Teams 🎥 Mute mikrofon når du ikke skal snakke 🎤  </description>
-    </item>
-    
-    <item>
-      <title>Om</title>
-      <link>https://borgengutta.github.io/page/about/</link>
-      <pubDate>Wed, 13 Jan 2021 18:56:12 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/page/about/</guid>
-      <description></description>
     </item>
     
   </channel>
