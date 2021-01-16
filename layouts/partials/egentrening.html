@@ -1,0 +1,26 @@
+
+        <table>
+            <tr>
+                <th>Spillernavn </th>
+                <th>Antall Trening</th>
+                <th>Antall Godkjent</th>
+                <th>Kondisjon</th>
+                <th>Teknikk/Styrke</th>
+                <th>Utholdenhet</th>
+                <th>Sum Km</th>
+                <th>Sum Minutter</th>
+            </tr>
+            {{ range $k, $i := sort .Site.Data.egentrening.y2020.mars_april "NumberOfTrainings" "desc"  }}
+            <tr>
+                <td>{{.PlayerName}}</td>
+                <td>{{.NumberOfTrainings}}</td>
+                <td>{{.NumberOfApprovedTrainings}}</td>
+                <td>{{.NumberOfFitnessTrainings}}</td>
+                <td>{{.NumberOfTechniqueStrengthTrainings}}</td>
+                <td>{{.NumberOfEnduranceTrainings}}</td>
+                <td>{{.SumKm}}</td>
+                <td>{{.SumMinutes}}</td>
+            </tr>
+            {{end}}
+        </table>
+
