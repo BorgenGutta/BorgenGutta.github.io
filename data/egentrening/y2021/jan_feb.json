@@ -1,202 +1,192 @@
 [
-    {
-      "PlayerName": "Tinius Elven",
-      "NumberOfTrainings": 3,
-      "NumberOfApprovedTrainings": 3,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 5.17,
-      "SumMinutes": 141
-    },
-    {
-      "PlayerName": "Conrad Borge",
-      "NumberOfTrainings": 4,
-      "NumberOfApprovedTrainings": 3,
-      "NumberOfFitnessTrainings": 2,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 10,
-      "SumMinutes": 240
-    },
-    {
-      "PlayerName": "Jesper Johan Martinsen",
-      "NumberOfTrainings": 3,
-      "NumberOfApprovedTrainings": 3,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 10,
-      "SumMinutes": 200
-    },
-    {
-      "PlayerName": "Theodor Kultorp Rangøy",
-      "NumberOfTrainings": 4,
-      "NumberOfApprovedTrainings": 4,
-      "NumberOfFitnessTrainings": 2,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 21.2,
-      "SumMinutes": 166
-    },
-    {
-      "PlayerName": "Theodor Stanes",
-      "NumberOfTrainings": 5,
-      "NumberOfApprovedTrainings": 4,
-      "NumberOfFitnessTrainings": 3,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 18,
-      "SumMinutes": 270
-    },
-    {
-      "PlayerName": "Christian Olsen",
-      "NumberOfTrainings": 4,
-      "NumberOfApprovedTrainings": 4,
-      "NumberOfFitnessTrainings": 2,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 16,
-      "SumMinutes": 300
-    },
-    {
-      "PlayerName": "Anders Bodahl Lunde",
-      "NumberOfTrainings": 5,
-      "NumberOfApprovedTrainings": 5,
-      "NumberOfFitnessTrainings": 3,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 22.29,
-      "SumMinutes": 153
-    },
-    {
-      "PlayerName": "Mikael Bakke",
-      "NumberOfTrainings": 3,
-      "NumberOfApprovedTrainings": 3,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 0,
-      "SumMinutes": 225
-    },
-    {
-      "PlayerName": "Ulrik André Olsen",
-      "NumberOfTrainings": 3,
-      "NumberOfApprovedTrainings": 3,
-      "NumberOfFitnessTrainings": 2,
-      "NumberOfTechniqueStrengthTrainings": 0,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 4,
-      "SumMinutes": 180
-    },
-    {
-      "PlayerName": "Victor Dahl",
-      "NumberOfTrainings": 2,
-      "NumberOfApprovedTrainings": 2,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 0,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 10.17,
-      "SumMinutes": 68
-    },
-    {
-      "PlayerName": "Didrik Schrøder",
-      "NumberOfTrainings": 4,
-      "NumberOfApprovedTrainings": 4,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 2,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 12,
-      "SumMinutes": 150
-    },
-    {
-      "PlayerName": "William Minge Lillegrend",
-      "NumberOfTrainings": 2,
-      "NumberOfApprovedTrainings": 2,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 2,
-      "NumberOfEnduranceTrainings": 0,
-      "SumKm": 0,
-      "SumMinutes": 270
-    },
-    {
-      "PlayerName": "Viktor Fjalestad",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 1,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 0,
-      "SumKm": 0,
-      "SumMinutes": 36
-    },
-    {
-      "PlayerName": "Conrad Solbrekke",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 1,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 0,
-      "SumKm": 0,
-      "SumMinutes": 36
-    },
-    {
-      "PlayerName": "Preben Elias-Engen Kristiansen",
-      "NumberOfTrainings": 2,
-      "NumberOfApprovedTrainings": 2,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 5,
-      "SumMinutes": 130
-    },
-    {
-      "PlayerName": "Carl Anker Hamang-Helgesen",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 1,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 0,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 6.5,
-      "SumMinutes": 77
-    },
-    {
-      "PlayerName": "Anders Lunde",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 0,
-      "NumberOfFitnessTrainings": 1,
-      "NumberOfTechniqueStrengthTrainings": 0,
-      "NumberOfEnduranceTrainings": 0,
-      "SumKm": 4.3,
-      "SumMinutes": 25
-    },
-    {
-      "PlayerName": "Theodor stanes",
-      "NumberOfTrainings": 5,
-      "NumberOfApprovedTrainings": 4,
-      "NumberOfFitnessTrainings": 3,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 18,
-      "SumMinutes": 270
-    },
-    {
-      "PlayerName": "Marius Myrvold",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 0,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 0,
-      "NumberOfEnduranceTrainings": 1,
-      "SumKm": 5,
-      "SumMinutes": 25
-    },
-    {
-      "PlayerName": "Jesper",
-      "NumberOfTrainings": 1,
-      "NumberOfApprovedTrainings": 0,
-      "NumberOfFitnessTrainings": 0,
-      "NumberOfTechniqueStrengthTrainings": 1,
-      "NumberOfEnduranceTrainings": 0,
-      "SumKm": 0,
-      "SumMinutes": 40
-    }
-  ]
+  {
+    "PlayerName": "Tinius Elven",
+    "NumberOfTrainings": 5,
+    "NumberOfApprovedTrainings": 5,
+    "NumberOfFitnessTrainings": 1,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 10.17,
+    "SumMinutes": 231
+  },
+  {
+    "PlayerName": "Conrad Borge",
+    "NumberOfTrainings": 6,
+    "NumberOfApprovedTrainings": 6,
+    "NumberOfFitnessTrainings": 2,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 20,
+    "SumMinutes": 400
+  },
+  {
+    "PlayerName": "Jesper Johan Martinsen",
+    "NumberOfTrainings": 6,
+    "NumberOfApprovedTrainings": 6,
+    "NumberOfFitnessTrainings": 1,
+    "NumberOfTechniqueStrengthTrainings": 3,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 10,
+    "SumMinutes": 315
+  },
+  {
+    "PlayerName": "Theodor Kultorp Rangøy",
+    "NumberOfTrainings": 7,
+    "NumberOfApprovedTrainings": 7,
+    "NumberOfFitnessTrainings": 3,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 33.7,
+    "SumMinutes": 324
+  },
+  {
+    "PlayerName": "Theodor Stanes",
+    "NumberOfTrainings": 8,
+    "NumberOfApprovedTrainings": 8,
+    "NumberOfFitnessTrainings": 4,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 21,
+    "SumMinutes": 600
+  },
+  {
+    "PlayerName": "Christian Olsen",
+    "NumberOfTrainings": 7,
+    "NumberOfApprovedTrainings": 7,
+    "NumberOfFitnessTrainings": 3,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 28.5,
+    "SumMinutes": 465
+  },
+  {
+    "PlayerName": "Anders Bodahl Lunde",
+    "NumberOfTrainings": 8,
+    "NumberOfApprovedTrainings": 8,
+    "NumberOfFitnessTrainings": 4,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 26.6,
+    "SumMinutes": 299
+  },
+  {
+    "PlayerName": "Mikael Bakke",
+    "NumberOfTrainings": 4,
+    "NumberOfApprovedTrainings": 4,
+    "NumberOfFitnessTrainings": 1,
+    "NumberOfTechniqueStrengthTrainings": 2,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 0,
+    "SumMinutes": 255
+  },
+  {
+    "PlayerName": "Ulrik André Olsen",
+    "NumberOfTrainings": 5,
+    "NumberOfApprovedTrainings": 5,
+    "NumberOfFitnessTrainings": 2,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 5.8,
+    "SumMinutes": 260
+  },
+  {
+    "PlayerName": "Victor Dahl",
+    "NumberOfTrainings": 3,
+    "NumberOfApprovedTrainings": 3,
+    "NumberOfFitnessTrainings": 1,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 10.17,
+    "SumMinutes": 98
+  },
+  {
+    "PlayerName": "Didrik Schrøder",
+    "NumberOfTrainings": 6,
+    "NumberOfApprovedTrainings": 6,
+    "NumberOfFitnessTrainings": 1,
+    "NumberOfTechniqueStrengthTrainings": 3,
+    "NumberOfEnduranceTrainings": 2,
+    "SumKm": 17.5,
+    "SumMinutes": 230
+  },
+  {
+    "PlayerName": "William Minge Lillegrend",
+    "NumberOfTrainings": 5,
+    "NumberOfApprovedTrainings": 5,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 4,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 10.5,
+    "SumMinutes": 570
+  },
+  {
+    "PlayerName": "Viktor Fjalestad",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 0,
+    "SumKm": 0,
+    "SumMinutes": 36
+  },
+  {
+    "PlayerName": "Conrad Solbrekke",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 0,
+    "SumKm": 0,
+    "SumMinutes": 36
+  },
+  {
+    "PlayerName": "Preben Elias-Engen Kristiansen",
+    "NumberOfTrainings": 2,
+    "NumberOfApprovedTrainings": 2,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 5,
+    "SumMinutes": 130
+  },
+  {
+    "PlayerName": "Carl Anker Hamang-Helgesen",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 0,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 6.5,
+    "SumMinutes": 77
+  },
+  {
+    "PlayerName": "Marius Myrvold",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 0,
+    "NumberOfEnduranceTrainings": 1,
+    "SumKm": 5,
+    "SumMinutes": 25
+  },
+  {
+    "PlayerName": "Martin Prestegaard",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 0,
+    "SumKm": 0,
+    "SumMinutes": 30
+  },
+  {
+    "PlayerName": "Isak Ahmic",
+    "NumberOfTrainings": 1,
+    "NumberOfApprovedTrainings": 1,
+    "NumberOfFitnessTrainings": 0,
+    "NumberOfTechniqueStrengthTrainings": 1,
+    "NumberOfEnduranceTrainings": 0,
+    "SumKm": 0,
+    "SumMinutes": 30
+  }
+]
