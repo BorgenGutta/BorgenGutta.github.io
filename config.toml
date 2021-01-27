@@ -93,6 +93,12 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "egentrening"
+    name = "Egentreningsskjema"
+    url = "page/egentreningsskjema"
+    weight = 1
+
+[[menu.main]]
+    parent = "egentrening"
     name = "Egentrening 2020"
     url = "page/egentrening2020"
     weight = 3

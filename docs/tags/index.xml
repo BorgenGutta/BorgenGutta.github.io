@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>borgengutta@live.com (Jan Vidar Elven)</managingEditor>
-    <webMaster>borgengutta@live.com (Jan Vidar Elven)</webMaster><atom:link href="https://borgengutta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>borgengutta@live.com (Jan Vidar Elven)</webMaster>
+    <lastBuildDate>Wed, 27 Jan 2021 14:57:56 +0100</lastBuildDate><atom:link href="https://borgengutta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Egentrening</title>
+      <link>https://borgengutta.github.io/tags/egentrening/</link>
+      <pubDate>Wed, 27 Jan 2021 14:57:56 +0100</pubDate>
+      <author>borgengutta@live.com (Jan Vidar Elven)</author>
+      <guid>https://borgengutta.github.io/tags/egentrening/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

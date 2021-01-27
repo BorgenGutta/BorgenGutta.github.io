@@ -5,7 +5,7 @@ type: ""
 date: 2021-01-19T20:25:03+01:00
 subtitle: "Etter de 2 første ukers egentrening er status som følger."
 image: ""
-tags: []
+tags: ["Egentrening"]
 ---
 
 Følgende personer har gjenomført og registrert alle 6 egentreningene (kondisjon, teknikk/styrke og langøkt) og er dermed med i trekningen av et pizza gavekort:

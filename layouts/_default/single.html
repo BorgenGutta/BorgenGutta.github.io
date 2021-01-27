@@ -13,6 +13,14 @@
             {{ partial "egentrening2021.html" . }}
         {{ end }}
 
+        {{ if eq .Params.title "Egentreningsskjema" }}
+            {{ partial "egentreningsskjema.html" . }}
+        {{ end }}
+        
+        {{ if eq .Params.title "Egentrening Teknikk To og To" }}
+          {{ partial "teknikk-pasning-2v2.html" . }}
+        {{ end }}   
+
         {{ if .Params.tags }}
           <div class="blog-tags">
             {{ range .Params.tags }}

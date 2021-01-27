@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Borgen Gutta</title>
-    <link>https://borgengutta.github.io/</link>
-    <description>Recent content on Borgen Gutta</description>
+    <title>Egentrening on Borgen Gutta</title>
+    <link>https://borgengutta.github.io/tags/egentrening/</link>
+    <description>Recent content in Egentrening on Borgen Gutta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
     <managingEditor>borgengutta@live.com (Jan Vidar Elven)</managingEditor>
     <webMaster>borgengutta@live.com (Jan Vidar Elven)</webMaster>
-    <lastBuildDate>Wed, 27 Jan 2021 14:57:56 +0100</lastBuildDate><atom:link href="https://borgengutta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 14:57:56 +0100</lastBuildDate><atom:link href="https://borgengutta.github.io/tags/egentrening/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Egentrening Teknikk To og To</title>
       <link>https://borgengutta.github.io/post/egentrening-teknikk-to-og-to/</link>
@@ -17,15 +17,6 @@
       <guid>https://borgengutta.github.io/post/egentrening-teknikk-to-og-to/</guid>
       <description>Tekniske balløvelser Til denne øvelsen trenger du:
  Trene sammen med en partner, eller søsken, voksen som kan hjelpe. 4 kjegler og 1 ball. 10 minutter lett oppvarming f.eks. med ballen i bena på treningsfeltet, eller lett jogg hjemmefra.  Følgende øvelser skal gjennomføres av dere annenhver gang. 10 repetisjoner for hver side i hver øvelse.</description>
-    </item>
-    
-    <item>
-      <title>Egentreningsskjema</title>
-      <link>https://borgengutta.github.io/page/egentreningsskjema/</link>
-      <pubDate>Wed, 27 Jan 2021 00:39:18 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/page/egentreningsskjema/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -61,43 +52,6 @@ Etter dette vil dere få innkalling på Spond for når dere skal ha egentrening 
  Anders Bodahl Lunde Christian Olsen Conrad Borge Theodor Kultorp Rangøy Theodor Stanes  Trekningen blir gjort live på første mulige trening hvor vi blir samlet igjen.
 I mellomtiden, fortsett egentreningen etter planen.
 For total oversikt over registrerte treninger, se link i toppen av menyen, under Egentrening klikk på Egentrening 2021.</description>
-    </item>
-    
-    <item>
-      <title>Egentrening 2021</title>
-      <link>https://borgengutta.github.io/page/egentrening2021/</link>
-      <pubDate>Sat, 16 Jan 2021 00:39:18 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/page/egentrening2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Egentrening 2020</title>
-      <link>https://borgengutta.github.io/page/egentrening2020/</link>
-      <pubDate>Fri, 15 Jan 2021 13:37:00 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/page/egentrening2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fitness Straffekonk</title>
-      <link>https://borgengutta.github.io/post/fitness-straffekonk-13-01-2021/</link>
-      <pubDate>Wed, 13 Jan 2021 21:30:24 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/post/fitness-straffekonk-13-01-2021/</guid>
-      <description>Teams Linken for å bli med på virtuell Fitness straffekonk er: Microsoft Teams Link ⚽
-Husk  Logg på fra kl 19:50, konkurransen starter kl 20:00 🕗 Husk å slå på kamera på Teams 🎥 Mute mikrofon når du ikke skal snakke 🎤  </description>
-    </item>
-    
-    <item>
-      <title>Om</title>
-      <link>https://borgengutta.github.io/page/about/</link>
-      <pubDate>Wed, 13 Jan 2021 18:56:12 +0100</pubDate>
-      <author>borgengutta@live.com (Jan Vidar Elven)</author>
-      <guid>https://borgengutta.github.io/page/about/</guid>
-      <description></description>
     </item>
     
   </channel>
