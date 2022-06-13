@@ -79,7 +79,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Innlegg"
     url = ""
-    weight = 1
+   weight = 1
 
 [[menu.main]]
     name = "Om"
@@ -113,3 +113,71 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "Sportsplan"
+    url = "page/sportsplan/"
+    weight = 3
+
+[[menu.main]]
+    parent = "Sportsplan"
+    identifier = "sportsplan-klubben"
+    name = "Klubben"
+    url = "page/sportsplan/klubben"
+    weight = 1
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "6-7 år"
+    url = "page/sportsplan/6-7"
+    weight = 2
+ 
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "8-9 år"
+    url = "page/sportsplan/8-9"
+    weight = 3
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "10-11 år"
+    url = "page/sportsplan/10-11"
+    weight = 4
+
+[[menu.main]]
+    parent = "Sportsplan"
+    name = "13-16 år"
+    url = "page/sportsplan/13-16"
+    weight = 5
+
+[[menu.main]]
+    parent = "sportsplan-klubben"
+    name = "Holdningskontrakt"
+    url = "page/sportsplan/klubben/holdningskontrakt"
+    weight = 5
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Laget"
+    url = "page/sportsplan/6-7/laget"
+    weight = 1
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Treneren"
+    url = "page/sportsplan/6-7/treneren"
+    weight = 2
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Trening"
+    url = "page/sportsplan/6-7/trening"
+    weight = 3
+
+[[menu.main]]
+    parent = "6-7 år"
+    name = "Kampen"
+    url = "page/sportsplan/6-7/kampen"
+    weight = 4
+
+
