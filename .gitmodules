@@ -1,3 +1,8 @@
+# Hvis problemer med submodule mellom repositories på ulike maskiner, prøv følgende:
+# git submodule status
+# git rm --cached themes/beautifulhugo
+# git submodule update --init -recursive
+
 [submodule "themes_beautifulhugo"]
 	path = .\\themes\\beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo
