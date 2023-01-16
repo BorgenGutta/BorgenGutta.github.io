@@ -3,6 +3,6 @@
 # git rm --cached themes/beautifulhugo
 # git submodule update --init -recursive
 
-[submodule "themes_beautifulhugo"]
-	path = .\\themes\\beautifulhugo
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo
